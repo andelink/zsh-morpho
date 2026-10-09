@@ -1,0 +1,14 @@
+zsh-morpho.plugin.zsh
+  h_9ad3b525ceb822 48
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "79630c6c0b8ecaff5772bbfb683fef47c42a318f",
+  "prompts": {},
+  "humans": {
+    "h_9ad3b525ceb822": {
+      "author": "Kyle Andelin <7277377+andelink@users.noreply.github.com>"
+    }
+  }
+}
