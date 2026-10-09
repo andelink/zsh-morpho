@@ -45,7 +45,7 @@ zstyle -s ':morpho' check-interval morpho_check_interval || morpho_check_interva
 # Marks a shell that runs a command (i.e. displays a prompt)
 # as active, so that the screen saver will be run only there
 -morpho-active() {
-    echo "$$\\n$(date +%s)" > /tmp/morpho-active-shell
+    echo "$$\\n$(date +%s)" >| /tmp/morpho-active-shell
 }
 
 # Called periodically
